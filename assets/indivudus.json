@@ -1,0 +1,35 @@
+{
+  "Individus": [
+    { 
+        "firstname":"VIAKIN" , 
+        "lastname":"VIAKIN",
+        "birthday":"09-01-1999" , 
+        "phone":"55632625" ,
+        "email":"henoc@gmail.com",
+         "gender":"masculin" ,
+         "picture":"" ,
+         "citation":"homme riche egal homme de pouvoir" 
+        }, 
+
+   { 
+        "firstname":"HOUNDO" , 
+        "lastname":"beaudelaire",
+        "birthday":"12-02-1998" , 
+        "phone":"55632230" ,
+        "email":"beau@gmail.com",
+         "gender":"masculin" ,
+         "picture":"" ,
+         "citation":"l'oiseau sur l'abre doit pas oublier qu'il a porter des lunettes" 
+        }, 
+    { 
+        "firstname":"HONVO" , 
+        "lastname":"Epiphane",
+        "birthday":"09-01-2000" , 
+        "phone":"6642625" ,
+        "email":"epiphane@gmail.com",
+         "gender":"masculin" ,
+         "picture":"" ,
+         "citation":"never give up" 
+        }
+    ]
+}
